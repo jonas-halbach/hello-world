@@ -5,7 +5,7 @@ Let's build a different hello world app. Let's build an app where each student g
 * Get an account at GitHub - https://help.github.com/articles/signing-up-for-a-new-github-account/
 * Set up your GitHub account on your machine - https://help.github.com/articles/setting-your-username-in-git/
 * Get acquainted with Git commands - https://try.github.io/levels/1/challenges/1
-* Fork this repository to your GitHub account - https://help.github.com/articles/fork-a-repo/
+* Fork this repository to your GitHub account - https://help.github.com/articles/fork-a-repo/ **
 * Clone the repository to your machine
 * Say hello to the world by adding HTML or Ruby code to +/app/views/welcome/index.html.erb+
 * Test your changes by running +rails+ +server+
@@ -19,3 +19,5 @@ Let's build a different hello world app. Let's build an app where each student g
 If you have any questions, contact your teachers.
 
 Also you may find this helpful: https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
+
+** this documentation just explains, what needs to get done to fork a repository. Not all of the steps explained their need to be executed. After reading this text you shall execute this steps on this repository here!
